@@ -1,0 +1,5 @@
+G0dverse here, I have some notes to make about this tool, which are:
+
+1. you need your own API key from ipinfo.io, which is free.
+
+2. star this tool please, and thank you! 
